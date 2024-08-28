@@ -37,7 +37,7 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "dotar um sistema global de inteligência artificial (IA) para otimizar a gestão de recursos naturais e prever desastres ambientais",
+                texto: "Adotar um sistema global de inteligência artificial (IA) para otimizar a gestão de recursos naturais e prever desastres ambientais",
                 afirmacao: "Você gerou panico global sobre a segurança dos dados de todos"
             },
             {
