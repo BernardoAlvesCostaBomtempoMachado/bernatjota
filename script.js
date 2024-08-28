@@ -9,12 +9,12 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 1",
-                afirmacao: "Afirmação 1"
+                texto: "Implementar um programa universal de saúde pública com cobertura para todos, porém aumentando os imposots"
+                afirmacao: "Você melhorou a saúde publica, mas os impostos aumentaram em 5x"
             },
             {
-                texto: "Alternativa 2",
-                afirmacao: "Afirmação 2"
+                texto: "Introduzir um sistema de renda básica universal que garanta uma quantia mínima de dinheiro a todos os cidadãos",
+                afirmacao: "Você desistimulou o trabalho e gerou preocupações fiscais a longo prazo"
             }
         ]
 
@@ -23,12 +23,12 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 1",
-                afirmacao: "Afirmação 1"
+                texto: ": Adotar uma política de proteção rígida de áreas naturais, preservando grandes áreas de florestas e parques nacionais",
+                afirmacao: "Você limitou o desenvolvimento econômico e uso de recursos naturais"
             },
             {
-                texto: "Alternativa 2",
-                afirmacao: "Afirmação 2"
+                texto: "Investir em uma vasta rede de transporte público elétrico e infraestrutura para bicicletas",
+                afirmacao: "Você mudou o hábito de muitos e gerou muitos custos para iniciar o projeto"
             }
         ]
 
@@ -37,12 +37,12 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 1",
-                afirmacao: "Afirmação 1"
+                texto: "dotar um sistema global de inteligência artificial (IA) para otimizar a gestão de recursos naturais e prever desastres ambientais",
+                afirmacao: "Você gerou panico global sobre a segurança dos dados de todos"
             },
             {
-                texto: "Alternativa 2",
-                afirmacao: "Afirmação 2"
+                texto: " Implementar uma política de automação em larga escala para indústrias e serviços, melhorando a eficiência e reduzindo os custos operacionais",
+                afirmacao: "Você gerou grande desemprego e aumentou a desigualdade econômica"
             }
         ]
 
